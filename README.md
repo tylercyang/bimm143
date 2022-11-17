@@ -1,2 +1,2 @@
-# bimm143
+# bimm 143
 Fall 2022 Bioinformatics Lab @ UC San Diego
